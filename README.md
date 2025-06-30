@@ -1,5 +1,3 @@
-# rentease
-
 # RentEase
 
 A modern rental management application built with TypeScript.  
